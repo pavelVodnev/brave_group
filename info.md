@@ -2,5 +2,5 @@
 
 git clone URL
 
-git puch
+создача конфлик
 
